@@ -1,7 +1,4 @@
-VCS's are of 2 types
-========================
-1 Centralised Version Controlling System
-2 Distributed Version Controlling System
+
 
 Centralised Version Controlling System
 ===========================================
