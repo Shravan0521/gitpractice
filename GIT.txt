@@ -1,5 +1,5 @@
 Day 1
-==================================================================
+
 Version Controlling
 ===========================
 This is the process of maintining multiple versions of code
