@@ -1,7 +1,8 @@
 Day 1
 
 Version Controlling
-===========================
+
+
 This is the process of maintining multiple versions of code
 All the team members upload their code(checkin) into a remote
 Version Controlling system(VCS).This VCS accepts the code
