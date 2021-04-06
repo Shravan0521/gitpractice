@@ -1,21 +1,3 @@
-Day 1
-
-Version Controlling
-
-This is the process of maintining multiple versions of code
-All the team members upload their code(checkin) into a remote
-Version Controlling system(VCS).This VCS accepts the code
-uploads from mulitple team members and integrates that as one 
-project.Next time when the team members download the code they
-will be able to access the code created by the entire team
-
-VCS's also preserve the older and later versions of the code
-so that at any pointof time we can switch between whichever
-version we want
-
-VCS's also keep a track of who is making what kind of changes
-at what time
-
 VCS's are of 2 types
 ========================
 1 Centralised Version Controlling System
